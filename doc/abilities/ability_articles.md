@@ -13,3 +13,7 @@
 写技术文章的时候, 最好用`MarkDown`哦, 程序员是不需要用`Word`这种东西的, 我们的内容是要方便发表在网站上, `Word`不能直接在网站里显示, 而`MarkDown`可以轻易地转换成`html`格式文件, 在浏览器中显示.
 
 我平时写文章, 就在VScode里写Markdown, 然后导入到知乎专栏里, 大家也可以试试.
+
+[VScode插件 Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+[VScode插件 Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
